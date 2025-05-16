@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae33679f-dcb6-4de0-83be-8710f122d974" name="Changes" comment="Init Commit">
+    <list default="true" id="ae33679f-dcb6-4de0-83be-8710f122d974" name="Changes" comment="Problem Set 0">
+      <change afterPath="$PROJECT_DIR$/Problem Set 1/bank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem Set 1/deep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem Set 1/extensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem Set 1/interpreter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem Set 1/meal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,24 +17,31 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "WiktorSzreder"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;WiktorSzreder&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/WiktorSzreder/CS50-s.git",
-    "accountId": "6edf19e4-fcd5-493e-894d-c48b16d037a1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/WiktorSzreder/CS50-s.git&quot;,
+    &quot;accountId&quot;: &quot;6edf19e4-fcd5-493e-894d-c48b16d037a1&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2wUYpLRBgIqxFm94Umvl36fSbJX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,9 +50,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.bank.executor": "Run",
+    "Python.deep.executor": "Run",
     "Python.einstein.executor": "Run",
+    "Python.extensions.executor": "Run",
     "Python.faces.executor": "Run",
     "Python.indoor.executor": "Run",
+    "Python.interpreter.executor": "Run",
+    "Python.meal.executor": "Run",
     "Python.playback.executor": "Run",
     "Python.tip.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -59,6 +76,60 @@
       <recent name="C:\Users\wikto\PycharmProjects\CS50’s Introduction to Programming with Python\Problem Set 0" />
     </key>
   </component>
+  <component name="RunManager" selected="Python.meal">
+    <configuration name="interpreter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS50’s Introduction to Programming with Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem Set 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem Set 1/interpreter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="meal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS50’s Introduction to Programming with Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem Set 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem Set 1/meal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.meal" />
+        <item itemvalue="Python.interpreter" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -75,7 +146,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746097800315</updated>
-      <workItem from="1746097801361" duration="1604000" />
+      <workItem from="1746097801361" duration="2292000" />
+      <workItem from="1747136212661" duration="166000" />
+      <workItem from="1747154255897" duration="2074000" />
+      <workItem from="1747254715792" duration="2099000" />
+      <workItem from="1747379020280" duration="844000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <option name="closed" value="true" />
@@ -85,7 +160,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746097985331</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Problem Set 0">
+      <option name="closed" value="true" />
+      <created>1746101134965</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746101134965</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Problem Set 0">
+      <option name="closed" value="true" />
+      <created>1746101176699</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746101176699</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,13 +184,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init Commit" />
+    <MESSAGE value="Problem Set 0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem Set 0" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$faces.coverage" NAME="faces Coverage Results" MODIFIED="1746098926259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 0" />
+    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$faces.coverage" NAME="faces Coverage Results" MODIFIED="1747155202185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 0" />
     <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$tip.coverage" NAME="tip Coverage Results" MODIFIED="1746099409890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 0" />
+    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$interpreter.coverage" NAME="interpreter Coverage Results" MODIFIED="1747379754441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 1" />
+    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$deep.coverage" NAME="deep Coverage Results" MODIFIED="1747160467322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 1" />
     <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$playback.coverage" NAME="playback Coverage Results" MODIFIED="1746098363596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 0" />
     <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$indoor.coverage" NAME="indoor Coverage Results" MODIFIED="1746098237082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 0" />
     <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$einstein.coverage" NAME="einstein Coverage Results" MODIFIED="1746099190631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 0" />
+    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$bank.coverage" NAME="bank Coverage Results" MODIFIED="1747255571170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 1" />
+    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$extensions.coverage" NAME="extensions Coverage Results" MODIFIED="1747256826332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 1" />
+    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$meal.coverage" NAME="meal Coverage Results" MODIFIED="1747379808529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 1" />
   </component>
 </project>
