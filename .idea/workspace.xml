@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae33679f-dcb6-4de0-83be-8710f122d974" name="Changes" comment="Problem Set 0">
-      <change afterPath="$PROJECT_DIR$/Problem Set 1/bank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem Set 1/deep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem Set 1/extensions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem Set 1/interpreter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem Set 1/meal.py" afterDir="false" />
+    <list default="true" id="ae33679f-dcb6-4de0-83be-8710f122d974" name="Changes" comment="Problem Set 1">
+      <change afterPath="$PROJECT_DIR$/Problem Set 2/Twttr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem Set 2/camel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem Set 2/coke.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem Set 2/nutrition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem Set 2/plates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem Set 3/fuel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem Set 3/grocery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem Set 3/outdated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem Set 3/taqueria.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,15 +54,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Twttr.executor": "Run",
     "Python.bank.executor": "Run",
+    "Python.camel.executor": "Run",
+    "Python.coke.executor": "Run",
     "Python.deep.executor": "Run",
     "Python.einstein.executor": "Run",
     "Python.extensions.executor": "Run",
     "Python.faces.executor": "Run",
+    "Python.fuel.executor": "Run",
     "Python.indoor.executor": "Run",
     "Python.interpreter.executor": "Run",
     "Python.meal.executor": "Run",
+    "Python.nutrition.executor": "Run",
+    "Python.outdated.executor": "Run",
+    "Python.outdated2.executor": "Run",
+    "Python.plates.executor": "Run",
     "Python.playback.executor": "Run",
+    "Python.taqueria.executor": "Run",
     "Python.tip.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -76,7 +89,53 @@
       <recent name="C:\Users\wikto\PycharmProjects\CS50’s Introduction to Programming with Python\Problem Set 0" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.meal">
+  <component name="RunManager">
+    <configuration name="camel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS50’s Introduction to Programming with Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem Set 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem Set 2/camel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="coke" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS50’s Introduction to Programming with Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem Set 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem Set 2/coke.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="interpreter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CS50’s Introduction to Programming with Python" />
       <option name="ENV_FILES" value="" />
@@ -125,6 +184,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.camel" />
+        <item itemvalue="Python.coke" />
         <item itemvalue="Python.meal" />
         <item itemvalue="Python.interpreter" />
       </list>
@@ -150,7 +211,8 @@
       <workItem from="1747136212661" duration="166000" />
       <workItem from="1747154255897" duration="2074000" />
       <workItem from="1747254715792" duration="2099000" />
-      <workItem from="1747379020280" duration="844000" />
+      <workItem from="1747379020280" duration="10158000" />
+      <workItem from="1747469766794" duration="2555000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <option name="closed" value="true" />
@@ -176,7 +238,31 @@
       <option name="project" value="LOCAL" />
       <updated>1746101176699</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Problem Set 0">
+      <option name="closed" value="true" />
+      <created>1747379993042</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747379993042</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Problem Set 0">
+      <option name="closed" value="true" />
+      <created>1747380002445</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747380002445</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Problem Set 1">
+      <option name="closed" value="true" />
+      <created>1747380009401</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747380009401</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,18 +271,28 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init Commit" />
     <MESSAGE value="Problem Set 0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem Set 0" />
+    <MESSAGE value="Problem Set 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem Set 1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$faces.coverage" NAME="faces Coverage Results" MODIFIED="1747155202185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 0" />
-    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$tip.coverage" NAME="tip Coverage Results" MODIFIED="1746099409890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 0" />
+    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$fuel.coverage" NAME="fuel Coverage Results" MODIFIED="1747394238418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 3" />
     <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$interpreter.coverage" NAME="interpreter Coverage Results" MODIFIED="1747379754441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 1" />
+    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$outdated2.coverage" NAME="outdated2 Coverage Results" MODIFIED="1747472129455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 3" />
     <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$deep.coverage" NAME="deep Coverage Results" MODIFIED="1747160467322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 1" />
     <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$playback.coverage" NAME="playback Coverage Results" MODIFIED="1746098363596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 0" />
     <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$indoor.coverage" NAME="indoor Coverage Results" MODIFIED="1746098237082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 0" />
-    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$einstein.coverage" NAME="einstein Coverage Results" MODIFIED="1746099190631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 0" />
+    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$Twttr.coverage" NAME="Twttr Coverage Results" MODIFIED="1747390790512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 2" />
     <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$bank.coverage" NAME="bank Coverage Results" MODIFIED="1747255571170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 1" />
     <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$extensions.coverage" NAME="extensions Coverage Results" MODIFIED="1747256826332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 1" />
-    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$meal.coverage" NAME="meal Coverage Results" MODIFIED="1747379808529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 1" />
+    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$nutrition.coverage" NAME="nutrition Coverage Results" MODIFIED="1747392734838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 2" />
+    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$outdated.coverage" NAME="outdated Coverage Results" MODIFIED="1747472311054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 3" />
+    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$faces.coverage" NAME="faces Coverage Results" MODIFIED="1747155202185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 0" />
+    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$plates.coverage" NAME="plates Coverage Results" MODIFIED="1747391018503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 2" />
+    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$taqueria.coverage" NAME="taqueria Coverage Results" MODIFIED="1747394917279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 3" />
+    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$tip.coverage" NAME="tip Coverage Results" MODIFIED="1746099409890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 0" />
+    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$coke.coverage" NAME="coke Coverage Results" MODIFIED="1747390735280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 2" />
+    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$camel.coverage" NAME="camel Coverage Results" MODIFIED="1747470049659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 2" />
+    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$einstein.coverage" NAME="einstein Coverage Results" MODIFIED="1746099190631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 0" />
+    <SUITE FILE_PATH="coverage/CS50s_Introduction_to_Programming_with_Python$meal.coverage" NAME="meal Coverage Results" MODIFIED="1747380522779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 1" />
   </component>
 </project>
